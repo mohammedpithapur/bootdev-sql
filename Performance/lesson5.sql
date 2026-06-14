@@ -1,0 +1,1 @@
+CREATE INDEX user_id_recipient_id_idx on transactions (user_id, recipient_id);
